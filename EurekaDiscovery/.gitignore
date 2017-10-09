@@ -15,6 +15,9 @@ target/
 *.iml
 *.ipr
 
+# MAC
+._*
+
 ### NetBeans ###
 nbproject/private/
 build/
